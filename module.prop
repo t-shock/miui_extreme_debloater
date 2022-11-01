@@ -1,0 +1,6 @@
+id=MIUI_13_Debloater
+name=Extreme debloater for MIUI 13 (Android 12)
+version=v1
+versionCode=1
+author=t-shock
+description=A script made to remove bloatware (Mi & Google apps) from Xiaomi.eu MIUI 13.04 and MIUI 13 stock (Global edition) for Redmi Note 11 Pro 5G.\n Only tested on xiaomi.eu roms but it may as well work on others too.\n Customize on your own
