@@ -146,12 +146,13 @@ REPLACE="
 /system/product/priv-app/GoogleAssistant
 /system/product/priv-app/GoogleRestore
 /system/product/priv-app/HotwordEnrollmentOKGoogleCORTEXM4
+/system/product/priv-app/HotwordEnrollmentOKGoogleHEXAGON
+/system/product/priv-app/HotwordEnrollmentXGoogleHEXAGON
 /system/product/priv-app/HotwordEnrollmentXGoogleCORTEXM4
 /system/product/priv-app/ims
 /system/product/priv-app/SetupWizard
 /system/product/priv-app/Velvet
 /system/product/priv-app/Wellbeing
-/system/system_ext/app/FM
 /system/system_ext/priv-app/GoogleFeedback
 /system/system_ext/priv-app/SetupWizard
 /system/vendor/app/Joyose
@@ -165,6 +166,8 @@ REPLACE="
 /vendor/data/app/wps_lite
 /vendor/data/app/XMRemoteController
 /system/priv-app/MIUIYellowPageGlobal
+/system/priv-app/dtag-appenabler
+/system/app/MIUIFileExplorerGlobal
 
 
 "
